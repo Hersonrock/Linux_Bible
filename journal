@@ -1,0 +1,22 @@
+Wednesday, May, 22, 2024
+
+Today I studied from page 147 to 156, $((156-147)) pages :)
+The subject was Writing simple Shell scripts using
+- escape characters
+- variables
+- variables expansion
+- shebang lines 
+- use of  '' `` "" 
+- parameter expansion (chopping and expanding unset variables)
+- if then else statements
+- test expressions
+
+As a project I performed
+
+- Creating a remote git repo for my studies of this book
+- Creating an Alias to set the date on this journal and setting it on ~/.bashrc
+(Sources p. 68;81;84)
+alias today="date +'%A, %B %d, %Y'"
+- Creating a dummy script, in which I got help from : 
+https://www.youtube.com/watch?v=PPQ8m8xQAs8
+
