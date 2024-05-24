@@ -20,3 +20,21 @@ alias today="date +'%A, %B %d, %Y'"
 - Creating a dummy script, in which I got help from : 
 https://www.youtube.com/watch?v=PPQ8m8xQAs8
 
+Thursday, May 23, 2024
+
+Today I studied from page 156 to 164
+I reviewed more commands I can use on scripts such as
+- sed
+- tr
+- cut
+- for 
+- do while
+- do until
+- conditionals
+- grep 
+
+as projects I did a lot of different silly script, my favorite is a 2 line
+backup script that will compress and save all my home directories on a 
+share I have mounted on the system.
+
+Next topic is Chapter 8 Learning System Administration , can't wait!
