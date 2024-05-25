@@ -49,3 +49,16 @@ I was able to perform security updates from the cockpit webapp.
 Whatched this video https://www.youtube.com/watch?v=3kl62YSU9XA to learn more 
 about systemd commands like systemctl and journalctl 
 studied from page 167 to 184
+
+Saturday, May 25, 2024
+Today I did not move futher on the book but I watched a 45min video from 
+LearnLinux TV on systemd, I did as I believe the book was glossing over this
+subject way too much.
+
+Tomorrow I'll do the same but for learning more about journalctl
+
+As a project I did a bash script that allows you to install a package and tell
+you exactly what services haven installed, using
+sytemctl list-unit --type:service
+
+
