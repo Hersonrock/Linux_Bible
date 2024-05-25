@@ -38,3 +38,14 @@ backup script that will compress and save all my home directories on a
 share I have mounted on the system.
 
 Next topic is Chapter 8 Learning System Administration , can't wait!
+
+Friday, May 24, 2024
+
+I installed cockpit on a test RHEL vm, I was surprised it looks really polished
+even though it feels sluggish for something thats locally hosted. I found it 
+pretty good. 
+
+I was able to perform security updates from the cockpit webapp.
+Whatched this video https://www.youtube.com/watch?v=3kl62YSU9XA to learn more 
+about systemd commands like systemctl and journalctl 
+studied from page 167 to 184
