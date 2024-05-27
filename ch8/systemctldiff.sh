@@ -13,7 +13,7 @@ INSTALLED_PACKAGE=$(dpkg -l \
 
 if [ -n $INSTALLED_PACKAGE ] ; then
 	[ -d $TEMP_DIR ] || mkdir $TEMP_DIR
-	echo "Installing Apache..."
+	echo "Installing $PACKAGE..."
 	systemctl list-units --type=service > $BEFORE 
 	apt-get install $PACKAGE -y 1>/dev/null
 	systemctl list-units --type=service > $AFTER

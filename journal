@@ -62,3 +62,17 @@ you exactly what services haven installed, using
 sytemctl list-unit --type:service
 
 
+Monday, May 27, 2024
+
+Today I studied from 184 to 195 Finished the Linux system administrator 
+chapter. 
+
+Learned about systemd and its commands systemctl and journalctl
+
+Also studied a bit on how to manage and monitor hardware and modules using
+commands like
+
+lscpu,lspci,lsusb,lsmod,modprobe,rmmod
+
+Today I'll review the chapter for Installing linux
+
