@@ -76,3 +76,9 @@ lscpu,lspci,lsusb,lsmod,modprobe,rmmod
 
 Today I'll review the chapter for Installing linux
 
+Thursday, May 30, 2024
+
+Today I read through chapter 9 Installing Linux.
+The chapter was easy to read as I'm not new at installing linux.
+Regardless it provides good references such as Boot options to troubleshoot
+problematic features and Video problems.
