@@ -88,3 +88,14 @@ Today I installed Arch Linux on a VM to practice the chapter 9 which was about
 installing linux. I plan to install it on my actual hardware later, perhaps 
 have a dual boot with it. 
 I was thinking I should be able to confortably make it my daily driver.
+Saturday, June 01, 2024
+
+Today I finished chapter 10 which was about understanding Linux RPM and DEB 
+packages
+
+I got a better understand on commands, how packages are managed.
+
+I also created a small script that will check for the current enabled repos on
+systems that use RPM packages
+
+
