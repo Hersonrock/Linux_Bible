@@ -105,3 +105,16 @@ Today I Finished reading chapter 11, I've reached page 273
 I had a lot of practice with the subject of users and groups as it was recently 
 refererenced on the other book I was reading.( The Linux Programming Interface )
 Reading on ACLs was new to me, interesting topic 
+
+Monday, June 03, 2024
+
+Today I finished chapter 12 whichn talks about partitions, filesystems, swap
+and LVM.
+
+I had a little practice with it already while installing Arch a few days ago,
+in which I used LVM and configured the boot, home and data partitions manually.
+
+The next set of chapters are on "Becoming a Linux Server Administator" 
+Is going to be great.
+
+
